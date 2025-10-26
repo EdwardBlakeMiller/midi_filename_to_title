@@ -10,3 +10,8 @@ The core operations performed here:
 3. Set a new 'track_name' meta-event using the filename.
 
 It so happens that the filenames are very well organized but the track information display poorly on Disklavier Enspire without these changes.
+
+## Dependancies
+
+This uses the `mido` python library to manipulate the midi files.
+  Get it with `pip install mido`
