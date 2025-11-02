@@ -15,3 +15,6 @@ It so happens that the filenames are very well organized but the track informati
 
 This uses the `mido` python library to manipulate the midi files.
   Get it with `pip install mido`
+
+This also uses the `tqdm` library to display a status bar.
+  Get it with `pip install tqdm`

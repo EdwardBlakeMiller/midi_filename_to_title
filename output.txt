@@ -1,0 +1,265 @@
+MBPR19:workdir emiller$ python3.9 ../midi_filename_to_title/title_change_of_dir.py  ./Albums\ \(MIDI\)
+Temporary directory created at: ./Albums (MIDI)/tmpezbwuwmr
+On Classical-VII (MID).zip
+Successfully unzipped './Albums (MIDI)/Classical-VII (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Classical-VII (MID)'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 238/238 [00:49<00:00,  4.86it/s]
+On Carlson (MID).zip
+Successfully unzipped './Albums (MIDI)/Carlson (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Carlson (MID)'
+	MCS: (seq Carlson)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 35/35 [00:11<00:00,  3.16it/s]
+On eComp2009 (MID).zip
+Successfully unzipped './Albums (MIDI)/eComp2009 (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/eComp2009 (MID)'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 174/174 [02:59<00:00,  1.03s/it]
+On 2009 eCompetition (MID) Winners.zip
+Successfully unzipped './Albums (MIDI)/2009 eCompetition (MID) Winners.zip' to './Albums (MIDI)/tmpezbwuwmr/2009 eCompetition (MID) Winners'
+	MCS: -W2009
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 54/54 [01:08<00:00,  1.26s/it]
+On Irving Berlin (MID).zip
+Successfully unzipped './Albums (MIDI)/Irving Berlin (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Irving Berlin (MID)'
+	MCS: cb Irving
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 57/57 [00:15<00:00,  3.63it/s]
+On Rachmaninov (MID).zip
+Successfully unzipped './Albums (MIDI)/Rachmaninov (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Rachmaninov (MID)'
+	MCS: -RACHMANINOFF -
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 125/125 [00:50<00:00,  2.47it/s]
+On Margorie Harrel (MID).zip
+Successfully unzipped './Albums (MIDI)/Margorie Harrel (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Margorie Harrel (MID)'
+	MCS: -Margorie Harrel
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:03<00:00,  7.83it/s]
+On 2008 eCompetiion Winners (MID).zip
+Successfully unzipped './Albums (MIDI)/2008 eCompetiion Winners (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/2008 eCompetiion Winners (MID)'
+	MCS:
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 64/64 [00:39<00:00,  1.64it/s]
+On Sue-Keller-Xmas-MIDI-174-183.zip
+Successfully unzipped './Albums (MIDI)/Sue-Keller-Xmas-MIDI-174-183.zip' to './Albums (MIDI)/tmpezbwuwmr/Sue-Keller-Xmas-MIDI-174-183'
+	MCS: -SueKeller
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:05<00:00,  5.54it/s]
+On Classical-IV (136) MID.zip
+Successfully unzipped './Albums (MIDI)/Classical-IV (136) MID.zip' to './Albums (MIDI)/tmpezbwuwmr/Classical-IV (136) MID'
+	MCS:
+ 19%|██████████████████████████▉                                                                                                                  | 26/136 [00:04<00:21,  5.10it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Classical-IV (136) MID/002-Ballade2.mid: Could not decode key with 1 flats and mode 255
+ 42%|███████████████████████████████████████████████████████████                                                                                  | 57/136 [00:11<00:19,  3.98it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Classical-IV (136) MID/033-Feux.mid: Could not decode key with 2 flats and mode 255
+ 89%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌               | 121/136 [00:22<00:02,  6.17it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Classical-IV (136) MID/049-Mazeppa.mid: Could not decode key with 1 flats and mode 255
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 136/136 [00:27<00:00,  5.02it/s]
+On MENDELSSOHN (MID).zip
+Successfully unzipped './Albums (MIDI)/MENDELSSOHN (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/MENDELSSOHN (MID)'
+	MCS: -MENDELSSOHN, Felix -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 52/52 [00:11<00:00,  4.57it/s]
+On Classical-I (001-215) MID.zip
+Successfully unzipped './Albums (MIDI)/Classical-I (001-215) MID.zip' to './Albums (MIDI)/tmpezbwuwmr/Classical-I (001-215) MID'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 215/215 [00:34<00:00,  6.14it/s]
+On Classical VI (MIDI).zip
+Successfully unzipped './Albums (MIDI)/Classical VI (MIDI).zip' to './Albums (MIDI)/tmpezbwuwmr/Classical VI (MIDI)'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 315/315 [01:28<00:00,  3.56it/s]
+On Classical-V 001-370 (MIDI).zip
+Successfully unzipped './Albums (MIDI)/Classical-V 001-370 (MIDI).zip' to './Albums (MIDI)/tmpezbwuwmr/Classical-V 001-370 (MIDI)'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 370/370 [02:26<00:00,  2.53it/s]
+On 2006 eCompetition Winners (MID).zip
+Successfully unzipped './Albums (MIDI)/2006 eCompetition Winners (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/2006 eCompetition Winners (MID)'
+	MCS: -2006
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 57/57 [01:07<00:00,  1.19s/it]
+On Sue-Keller-RagTime-MIDI-001-069.zip
+Successfully unzipped './Albums (MIDI)/Sue-Keller-RagTime-MIDI-001-069.zip' to './Albums (MIDI)/tmpezbwuwmr/Sue-Keller-RagTime-MIDI-001-069'
+	MCS: -SueKeller
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 69/69 [00:15<00:00,  4.54it/s]
+On Cecile Chaminade (MID).zip
+Successfully unzipped './Albums (MIDI)/Cecile Chaminade (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Cecile Chaminade (MID)'
+	MCS: -CHAMINADE Cecile -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 57/57 [00:08<00:00,  7.05it/s]
+On ALKAN (MID).zip
+Successfully unzipped './Albums (MIDI)/ALKAN (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/ALKAN (MID)'
+	MCS: -ALKAN, Charles V -
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 179/179 [00:48<00:00,  3.72it/s]
+On Mozart (MID).ZIP
+Successfully unzipped './Albums (MIDI)/Mozart (MID).ZIP' to './Albums (MIDI)/tmpezbwuwmr/Mozart (MID)'
+	MCS: -MOZART - K
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 118/118 [00:46<00:00,  2.55it/s]
+On Disklavier-Jazz01 (MID).zip
+Successfully unzipped './Albums (MIDI)/Disklavier-Jazz01 (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Disklavier-Jazz01 (MID)'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 100/100 [00:23<00:00,  4.18it/s]
+On Jazz Standards [MID].zip
+Successfully unzipped './Albums (MIDI)/Jazz Standards [MID].zip' to './Albums (MIDI)/tmpezbwuwmr/Jazz Standards [MID]'
+	MCS: -Jazz
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 110/110 [00:25<00:00,  4.29it/s]
+On Grieg (MID).zip
+Successfully unzipped './Albums (MIDI)/Grieg (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Grieg (MID)'
+	MCS: -GRIEG, Edvard Hagerup -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 49/49 [00:05<00:00,  9.66it/s]
+On SCHUMANN, Robert (MID).zip
+Successfully unzipped './Albums (MIDI)/SCHUMANN, Robert (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/SCHUMANN, Robert (MID)'
+	MCS: -SCHUMANN, Robert -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 45/45 [00:23<00:00,  1.94it/s]
+On Classical-II (215) MID.zip
+Successfully unzipped './Albums (MIDI)/Classical-II (215) MID.zip' to './Albums (MIDI)/tmpezbwuwmr/Classical-II (215) MID'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 215/215 [01:01<00:00,  3.49it/s]
+On Sue-Keller-Boogie&Blues-MIDI-140-173.zip
+Successfully unzipped './Albums (MIDI)/Sue-Keller-Boogie&Blues-MIDI-140-173.zip' to './Albums (MIDI)/tmpezbwuwmr/Sue-Keller-Boogie&Blues-MIDI-140-173'
+	MCS: -SueKeller
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 34/34 [00:10<00:00,  3.34it/s]
+On Scott Joplin (MID).zip
+Successfully unzipped './Albums (MIDI)/Scott Joplin (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Scott Joplin (MID)'
+	MCS: -Scott Joplin -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 36/36 [00:10<00:00,  3.47it/s]
+On Disklavier-Jazz04 (MID).zip
+Successfully unzipped './Albums (MIDI)/Disklavier-Jazz04 (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Disklavier-Jazz04 (MID)'
+	MCS: Jazz Trio -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 43/43 [00:22<00:00,  1.92it/s]
+On SRach [MID].zip
+Successfully unzipped './Albums (MIDI)/SRach [MID].zip' to './Albums (MIDI)/tmpezbwuwmr/SRach [MID]'
+	MCS: -SRach
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 8/8 [00:02<00:00,  3.32it/s]
+On LISZT (MID).zip
+Successfully unzipped './Albums (MIDI)/LISZT (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/LISZT (MID)'
+	MCS: -LISZT, Franz -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 82/82 [00:55<00:00,  1.48it/s]
+On 2004  eCompetition Winners (MID).zip
+Successfully unzipped './Albums (MIDI)/2004  eCompetition Winners (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/2004  eCompetition Winners (MID)'
+	MCS: -2004-
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 55/55 [01:08<00:00,  1.25s/it]
+On DrJazz (MID).zip
+Successfully unzipped './Albums (MIDI)/DrJazz (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/DrJazz (MID)'
+	MCS: -DrJazz '
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 44/44 [00:12<00:00,  3.52it/s]
+On Disklavier-Jazz02 (MID).zip
+Successfully unzipped './Albums (MIDI)/Disklavier-Jazz02 (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Disklavier-Jazz02 (MID)'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 101/101 [00:34<00:00,  2.92it/s]
+On SCHUBERT-(MID).zip
+Successfully unzipped './Albums (MIDI)/SCHUBERT-(MID).zip' to './Albums (MIDI)/tmpezbwuwmr/SCHUBERT-(MID)'
+	MCS: -SCHUBERT, Franz
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 44/44 [00:40<00:00,  1.09it/s]
+On Bennie Gunn (MID).zip
+Successfully unzipped './Albums (MIDI)/Bennie Gunn (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Bennie Gunn (MID)'
+	MCS:
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 24/24 [00:16<00:00,  1.47it/s]
+On Classical-III (222) MID.zip
+Successfully unzipped './Albums (MIDI)/Classical-III (222) MID.zip' to './Albums (MIDI)/tmpezbwuwmr/Classical-III (222) MID'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 222/222 [00:51<00:00,  4.30it/s]
+On 2011 Disklavier Competition Winners (MID).zip
+Successfully unzipped './Albums (MIDI)/2011 Disklavier Competition Winners (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/2011 Disklavier Competition Winners (MID)'
+	MCS: Prize -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 56/56 [00:42<00:00,  1.32it/s]
+On LVB (MID).zip
+Successfully unzipped './Albums (MIDI)/LVB (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/LVB (MID)'
+	MCS: -BEETHOVEN -
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 153/153 [01:51<00:00,  1.38it/s]
+On Chopin (263) MID.zip
+Successfully unzipped './Albums (MIDI)/Chopin (263) MID.zip' to './Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID'
+	MCS: -CHOPIN Frederic
+  3%|████▊                                                                                                                                         | 9/263 [00:01<00:47,  5.35it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/224-CHOPIN Frederick Francois - Mazurka D Major Op-33 No-02.mid: type 0 file must have exactly 1 track
+  4%|█████▎                                                                                                                                       | 10/263 [00:01<00:46,  5.48it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/229-CHOPIN Frederick Francois - Mazurka F minor Op-63 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/201-CHOPIN Frederick Francois - Mazurka A minor.mid: type 0 file must have exactly 1 track
+  5%|██████▉                                                                                                                                      | 13/263 [00:02<00:37,  6.61it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/206-CHOPIN Frederick Francois - Mazurka B Major Op-41 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/205-CHOPIN Frederick Francois - Mazurka B flat minor Op-24 No-04.mid: type 0 file must have exactly 1 track
+  6%|████████                                                                                                                                     | 15/263 [00:02<00:35,  7.05it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/237-CHOPIN Frederick Francois - Mazurka G minor Op-68 No-02 (posthum).mid: type 0 file must have exactly 1 track
+  6%|█████████                                                                                                                                    | 17/263 [00:02<00:36,  6.66it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/212-CHOPIN Frederick Francois - Mazurka C Major Op-33 No-03.mid: type 0 file must have exactly 1 track
+  9%|████████████▊                                                                                                                                | 24/263 [00:03<00:31,  7.62it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/204-CHOPIN Frederick Francois - Mazurka B flat minor Op-06 No-04.mid: type 0 file must have exactly 1 track
+ 10%|█████████████▉                                                                                                                               | 26/263 [00:04<00:46,  5.04it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/192-CHOPIN Frederick Francois - Mazurka A flat Major Op-50 No-02.mid: type 0 file must have exactly 1 track
+ 12%|████████████████▌                                                                                                                            | 31/263 [00:05<00:35,  6.63it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/223-CHOPIN Frederick Francois - Mazurka D flat Major Op-30 No-03.mid: type 0 file must have exactly 1 track
+ 17%|████████████████████████▏                                                                                                                    | 45/263 [00:08<00:58,  3.71it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/233-CHOPIN Frederick Francois - Mazurka G Major Op-67 No-01.mid: type 0 file must have exactly 1 track
+ 18%|█████████████████████████▋                                                                                                                   | 48/263 [00:09<00:50,  4.22it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/228-CHOPIN Frederick Francois - Mazurka F minor Op-07 No-03.mid: type 0 file must have exactly 1 track
+ 19%|██████████████████████████▎                                                                                                                  | 49/263 [00:09<00:43,  4.92it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/221-CHOPIN Frederick Francois - Mazurka C sharp minor Op-63 No-03.mid: type 0 file must have exactly 1 track
+ 20%|███████████████████████████▉                                                                                                                 | 52/263 [00:09<00:33,  6.23it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/263-CHOPIN Frederick Francois - Polonaise-Fantasie A flat Major Op-61.mid: type 0 file must have exactly 1 track
+ 24%|█████████████████████████████████▏                                                                                                           | 62/263 [00:12<00:39,  5.03it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/231-CHOPIN Frederick Francois - Mazurka F sharp minor Op-59 No-03.mid: type 0 file must have exactly 1 track
+ 30%|██████████████████████████████████████████▉                                                                                                  | 80/263 [00:15<00:37,  4.88it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/194-CHOPIN Frederick Francois - Mazurka A minor (posthum).mid: type 0 file must have exactly 1 track
+ 31%|███████████████████████████████████████████▉                                                                                                 | 82/263 [00:15<00:33,  5.38it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/214-CHOPIN Frederick Francois - Mazurka C Major Op-67 No-03.mid: type 0 file must have exactly 1 track
+ 33%|██████████████████████████████████████████████                                                                                               | 86/263 [00:16<00:29,  6.07it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/210-CHOPIN Frederick Francois - Mazurka C Major Op-07 No-05.mid: type 0 file must have exactly 1 track
+ 37%|████████████████████████████████████████████████████▌                                                                                        | 98/263 [00:19<00:59,  2.77it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/220-CHOPIN Frederick Francois - Mazurka C sharp minor Op-50 No-03.mid: type 0 file must have exactly 1 track
+ 38%|█████████████████████████████████████████████████████                                                                                        | 99/263 [00:20<00:50,  3.23it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/216-CHOPIN Frederick Francois - Mazurka C minor Op-30 No-01.mid: type 0 file must have exactly 1 track
+ 38%|█████████████████████████████████████████████████████▊                                                                                      | 101/263 [00:20<00:33,  4.85it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/195-CHOPIN Frederick Francois - Mazurka A minor Op-07 No-02.mid: type 0 file must have exactly 1 track
+ 39%|██████████████████████████████████████████████████████▎                                                                                     | 102/263 [00:20<00:29,  5.40it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/208-CHOPIN Frederick Francois - Mazurka B minor Op-30 No-02.mid: type 0 file must have exactly 1 track
+ 42%|██████████████████████████████████████████████████████████▌                                                                                 | 110/263 [00:21<00:26,  5.85it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/213-CHOPIN Frederick Francois - Mazurka C Major Op-56 No-02.mid: type 0 file must have exactly 1 track
+ 43%|███████████████████████████████████████████████████████████▌                                                                                | 112/263 [00:21<00:19,  7.80it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/190-CHOPIN Frederick Francois - Mazurka A flat Major Op-24 No-03.mid: type 0 file must have exactly 1 track
+ 44%|█████████████████████████████████████████████████████████████▋                                                                              | 116/263 [00:22<00:20,  7.09it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/227-CHOPIN Frederick Francois - Mazurka E minor Op-17 No-02.mid: type 0 file must have exactly 1 track
+ 46%|████████████████████████████████████████████████████████████████▉                                                                           | 122/263 [00:23<00:26,  5.39it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/238-CHOPIN Frederick Francois - Mazurka G sharp minor Op-33 No-01.mid: type 0 file must have exactly 1 track
+ 48%|███████████████████████████████████████████████████████████████████                                                                         | 126/263 [00:24<00:19,  6.86it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/215-CHOPIN Frederick Francois - Mazurka C Major Op-68 No-02 (posthum).mid: type 0 file must have exactly 1 track
+ 49%|████████████████████████████████████████████████████████████████████▏                                                                       | 128/263 [00:24<00:16,  8.14it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/181-CHOPIN Frederick Francois - Etude C sharp minor Op-25 No-07.mid: type 0 file must have exactly 1 track
+ 49%|████████████████████████████████████████████████████████████████████▋                                                                       | 129/263 [00:24<00:16,  8.03it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/218-CHOPIN Frederick Francois - Mazurka C sharp minor Op-06 No-02.mid: type 0 file must have exactly 1 track
+ 52%|████████████████████████████████████████████████████████████████████████▉                                                                   | 137/263 [00:26<00:19,  6.62it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/234-CHOPIN Frederick Francois - Mazurka G Major Op-68 No-01 (posthum).mid: type 0 file must have exactly 1 track
+ 52%|█████████████████████████████████████████████████████████████████████████▍                                                                  | 138/263 [00:26<00:17,  7.04it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/199-CHOPIN Frederick Francois - Mazurka A minor Op-67 No-04.mid: type 0 file must have exactly 1 track
+ 59%|███████████████████████████████████████████████████████████████████████████████████                                                         | 156/263 [00:30<00:38,  2.80it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/226-CHOPIN Frederick Francois - Mazurka E Major Op-56 No-01.mid: type 0 file must have exactly 1 track
+ 67%|█████████████████████████████████████████████████████████████████████████████████████████████▋                                              | 176/263 [00:36<00:25,  3.39it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/189-CHOPIN Frederick Francois - Mazurka A flat Major Op-17 No-03.mid: type 0 file must have exactly 1 track
+ 69%|████████████████████████████████████████████████████████████████████████████████████████████████▉                                           | 182/263 [00:39<00:24,  3.31it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/186-CHOPIN Frederick Francois - Etude G sharp minor Op-25 No-06.mid: type 0 file must have exactly 1 track
+ 71%|███████████████████████████████████████████████████████████████████████████████████████████████████                                         | 186/263 [00:41<00:46,  1.67it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/211-CHOPIN Frederick Francois - Mazurka C Major Op-24 No-02.mid: type 0 file must have exactly 1 track
+ 71%|███████████████████████████████████████████████████████████████████████████████████████████████████▌                                        | 187/263 [00:41<00:34,  2.19it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/191-CHOPIN Frederick Francois - Mazurka A flat Major Op-41 No-04.mid: type 0 file must have exactly 1 track
+ 72%|█████████████████████████████████████████████████████████████████████████████████████████████████████▏                                      | 190/263 [00:42<00:20,  3.52it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/230-CHOPIN Frederick Francois - Mazurka F sharp minor Op-06 No-01.mid: type 0 file must have exactly 1 track
+ 74%|███████████████████████████████████████████████████████████████████████████████████████████████████████▎                                    | 194/263 [00:43<00:20,  3.36it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/202-CHOPIN Frederick Francois - Mazurka B flat Major Op-07 No-01.mid: type 0 file must have exactly 1 track
+ 74%|███████████████████████████████████████████████████████████████████████████████████████████████████████▊                                    | 195/263 [00:43<00:16,  4.10it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/196-CHOPIN Frederick Francois - Mazurka A minor Op-17 No-04.mid: type 0 file must have exactly 1 track
+ 76%|██████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                 | 200/263 [00:44<00:12,  5.02it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/198-CHOPIN Frederick Francois - Mazurka A minor Op-59 No-01.mid: type 0 file must have exactly 1 track
+ 79%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                             | 207/263 [00:45<00:15,  3.67it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/197-CHOPIN Frederick Francois - Mazurka A minor Op-41 No-02.mid: type 0 file must have exactly 1 track
+ 82%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                         | 215/263 [00:47<00:10,  4.66it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/203-CHOPIN Frederick Francois - Mazurka B flat Major Op-17 No-01.mid: type 0 file must have exactly 1 track
+ 82%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                         | 216/263 [00:47<00:09,  5.20it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/225-CHOPIN Frederick Francois - Mazurka E Major Op-06 No-03.mid: type 0 file must have exactly 1 track
+ 86%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                   | 226/263 [00:49<00:09,  4.00it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/235-CHOPIN Frederick Francois - Mazurka G minor Op-24 No-01.mid: type 0 file must have exactly 1 track
+ 92%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎          | 243/263 [00:51<00:03,  6.45it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/188-CHOPIN Frederick Francois - Mazurka A flat Major Op-07 No-04.mid: type 0 file must have exactly 1 track
+ 94%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍        | 247/263 [00:52<00:02,  6.56it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/236-CHOPIN Frederick Francois - Mazurka G minor Op-67 No-02.mid: type 0 file must have exactly 1 track
+ 97%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏    | 254/263 [00:53<00:01,  6.73it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/232-CHOPIN Frederick Francois - Mazurka G Major Op-50 No-01.mid: type 0 file must have exactly 1 track
+ 97%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋    | 255/263 [00:53<00:01,  7.25it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/200-CHOPIN Frederick Francois - Mazurka A minor Op-68 No-04 (posthum).mid: type 0 file must have exactly 1 track
+ 98%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊   | 257/263 [00:53<00:00,  8.07it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/222-CHOPIN Frederick Francois - Mazurka C sharp Op-41 No-01.mid: type 0 file must have exactly 1 track
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎  | 258/263 [00:53<00:00,  7.61it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/217-CHOPIN Frederick Francois - Mazurka C minor Op-56 No-03.mid: type 0 file must have exactly 1 track
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊  | 259/263 [00:54<00:00,  6.76it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/209-CHOPIN Frederick Francois - Mazurka B minor Op-33 No-04.mid: type 0 file must have exactly 1 track
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 263/263 [00:54<00:00,  4.79it/s]
+On 2011 eCompetition (MID).zip
+Successfully unzipped './Albums (MIDI)/2011 eCompetition (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/2011 eCompetition (MID)'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 176/176 [01:49<00:00,  1.60it/s]
+On BACH (MID).zip
+Successfully unzipped './Albums (MIDI)/BACH (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/BACH (MID)'
+	MCS: -BACH, Johann Sebastian -
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 206/206 [00:44<00:00,  4.59it/s]
+On Brahms (MID).zip
+Successfully unzipped './Albums (MIDI)/Brahms (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Brahms (MID)'
+	MCS: -BRAHMS, Johannes -
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 122/122 [00:44<00:00,  2.72it/s]
+On Gershwin (MID).zip
+Successfully unzipped './Albums (MIDI)/Gershwin (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Gershwin (MID)'
+	MCS: -George GERSHWIN,
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 38/38 [00:10<00:00,  3.60it/s]
+On Debussy (01-47) MID.zip
+Successfully unzipped './Albums (MIDI)/Debussy (01-47) MID.zip' to './Albums (MIDI)/tmpezbwuwmr/Debussy (01-47) MID'
+	MCS: -DEBUSSY, Claude -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 47/47 [00:12<00:00,  3.90it/s]
+On Bob Mace (MID).zip
+Successfully unzipped './Albums (MIDI)/Bob Mace (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Bob Mace (MID)'
+	MCS: Bob Mace
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 160/160 [00:29<00:00,  5.39it/s]
+On Disklavier-Jazz03 (MID).zip
+Successfully unzipped './Albums (MIDI)/Disklavier-Jazz03 (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Disklavier-Jazz03 (MID)'
+	MCS:
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 109/109 [00:32<00:00,  3.40it/s]
+On Poulenc (MID).zip
+Successfully unzipped './Albums (MIDI)/Poulenc (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Poulenc (MID)'
+	MCS: -POULENC, Francis -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 17/17 [00:01<00:00, 10.25it/s]
+On Sue-Keller-RagTime-MIDI-070-139.zip
+Successfully unzipped './Albums (MIDI)/Sue-Keller-RagTime-MIDI-070-139.zip' to './Albums (MIDI)/tmpezbwuwmr/Sue-Keller-RagTime-MIDI-070-139'
+	MCS: -SueKeller
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 70/70 [00:15<00:00,  4.66it/s]
+On 2002  eCompetition Winners (MID).zip
+Successfully unzipped './Albums (MIDI)/2002  eCompetition Winners (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/2002  eCompetition Winners (MID)'
+	MCS: -2002-
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 32/32 [00:41<00:00,  1.28s/it]
+On Finley MIDI.zip
+Successfully unzipped './Albums (MIDI)/Finley MIDI.zip' to './Albums (MIDI)/tmpezbwuwmr/Finley MIDI'
+	MCS:
+ 22%|███████████████████████████████▌                                                                                                              | 16/72 [00:05<00:08,  6.25it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Finley MIDI/55-Mussorgsky - Pictures At An Exhibition - No-07 Limoges No-08 Catacombs - Skulls.mid: Could not decode key with 2 flats and mode 255
+ 36%|███████████████████████████████████████████████████▎                                                                                          | 26/72 [00:07<00:07,  6.27it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Finley MIDI/54-Mussorgsky - Pictures At An Exhibition - No-05 Ballet of the Chickens in their Shells.mid: Could not decode key with 1 flats and mode 255
+ 46%|█████████████████████████████████████████████████████████████████                                                                             | 33/72 [00:09<00:09,  4.30it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Finley MIDI/51-Mussorgsky - Pictures At An Exhibition - No-02 The Old Castle (Andantino molto).mid: Could not decode key with 4 flats and mode 255
+ 92%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏           | 66/72 [00:24<00:03,  1.93it/s]An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Finley MIDI/50-Mussorgsky - Pictures At An Exhibition - No-01 The Gnome (Sempre vivo).mid: Could not decode key with 2 flats and mode 255
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 72/72 [00:28<00:00,  2.56it/s]
+On HAYDN (MID).zip
+Successfully unzipped './Albums (MIDI)/HAYDN (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/HAYDN (MID)'
+	MCS: -HAYDN, Franz Joseph -
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [00:13<00:00,  2.03it/s]
+On Tchai (MID).zip
+Successfully unzipped './Albums (MIDI)/Tchai (MID).zip' to './Albums (MIDI)/tmpezbwuwmr/Tchai (MID)'
+	MCS: -TCHAIKOVSKY, Pyotr Ilyich
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 217/217 [01:03<00:00,  3.44it/s]
+MBPR19:workdir emiller$

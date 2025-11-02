@@ -1,0 +1,58 @@
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/201-CHOPIN Frederick Francois - Mazurka A minor.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/205-CHOPIN Frederick Francois - Mazurka B flat minor Op-24 No-04.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Classical-IV (136) MID/002-Ballade2.mid: Could not decode key with 1 flats and mode 255
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Classical-IV (136) MID/033-Feux.mid: Could not decode key with 2 flats and mode 255
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Classical-IV (136) MID/049-Mazeppa.mid: Could not decode key with 1 flats and mode 255
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/224-CHOPIN Frederick Francois - Mazurka D Major Op-33 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/229-CHOPIN Frederick Francois - Mazurka F minor Op-63 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/206-CHOPIN Frederick Francois - Mazurka B Major Op-41 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/237-CHOPIN Frederick Francois - Mazurka G minor Op-68 No-02 (posthum).mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/212-CHOPIN Frederick Francois - Mazurka C Major Op-33 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/204-CHOPIN Frederick Francois - Mazurka B flat minor Op-06 No-04.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/192-CHOPIN Frederick Francois - Mazurka A flat Major Op-50 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/223-CHOPIN Frederick Francois - Mazurka D flat Major Op-30 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/233-CHOPIN Frederick Francois - Mazurka G Major Op-67 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/228-CHOPIN Frederick Francois - Mazurka F minor Op-07 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/221-CHOPIN Frederick Francois - Mazurka C sharp minor Op-63 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/263-CHOPIN Frederick Francois - Polonaise-Fantasie A flat Major Op-61.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/231-CHOPIN Frederick Francois - Mazurka F sharp minor Op-59 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/194-CHOPIN Frederick Francois - Mazurka A minor (posthum).mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/214-CHOPIN Frederick Francois - Mazurka C Major Op-67 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/210-CHOPIN Frederick Francois - Mazurka C Major Op-07 No-05.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/220-CHOPIN Frederick Francois - Mazurka C sharp minor Op-50 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/216-CHOPIN Frederick Francois - Mazurka C minor Op-30 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/195-CHOPIN Frederick Francois - Mazurka A minor Op-07 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/208-CHOPIN Frederick Francois - Mazurka B minor Op-30 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/213-CHOPIN Frederick Francois - Mazurka C Major Op-56 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/190-CHOPIN Frederick Francois - Mazurka A flat Major Op-24 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/227-CHOPIN Frederick Francois - Mazurka E minor Op-17 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/238-CHOPIN Frederick Francois - Mazurka G sharp minor Op-33 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/215-CHOPIN Frederick Francois - Mazurka C Major Op-68 No-02 (posthum).mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/181-CHOPIN Frederick Francois - Etude C sharp minor Op-25 No-07.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/218-CHOPIN Frederick Francois - Mazurka C sharp minor Op-06 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/234-CHOPIN Frederick Francois - Mazurka G Major Op-68 No-01 (posthum).mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/199-CHOPIN Frederick Francois - Mazurka A minor Op-67 No-04.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/226-CHOPIN Frederick Francois - Mazurka E Major Op-56 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/189-CHOPIN Frederick Francois - Mazurka A flat Major Op-17 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/186-CHOPIN Frederick Francois - Etude G sharp minor Op-25 No-06.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/211-CHOPIN Frederick Francois - Mazurka C Major Op-24 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/191-CHOPIN Frederick Francois - Mazurka A flat Major Op-41 No-04.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/230-CHOPIN Frederick Francois - Mazurka F sharp minor Op-06 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/202-CHOPIN Frederick Francois - Mazurka B flat Major Op-07 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/196-CHOPIN Frederick Francois - Mazurka A minor Op-17 No-04.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/198-CHOPIN Frederick Francois - Mazurka A minor Op-59 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/197-CHOPIN Frederick Francois - Mazurka A minor Op-41 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/203-CHOPIN Frederick Francois - Mazurka B flat Major Op-17 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/225-CHOPIN Frederick Francois - Mazurka E Major Op-06 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/235-CHOPIN Frederick Francois - Mazurka G minor Op-24 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/188-CHOPIN Frederick Francois - Mazurka A flat Major Op-07 No-04.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/236-CHOPIN Frederick Francois - Mazurka G minor Op-67 No-02.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/232-CHOPIN Frederick Francois - Mazurka G Major Op-50 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/200-CHOPIN Frederick Francois - Mazurka A minor Op-68 No-04 (posthum).mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/222-CHOPIN Frederick Francois - Mazurka C sharp Op-41 No-01.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/217-CHOPIN Frederick Francois - Mazurka C minor Op-56 No-03.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Chopin (263) MID/209-CHOPIN Frederick Francois - Mazurka B minor Op-33 No-04.mid: type 0 file must have exactly 1 track
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Finley MIDI/55-Mussorgsky - Pictures At An Exhibition - No-07 Limoges No-08 Catacombs - Skulls.mid: Could not decode key with 2 flats and mode 255
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Finley MIDI/54-Mussorgsky - Pictures At An Exhibition - No-05 Ballet of the Chickens in their Shells.mid: Could not decode key with 1 flats and mode 255
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Finley MIDI/51-Mussorgsky - Pictures At An Exhibition - No-02 The Old Castle (Andantino molto).mid: Could not decode key with 4 flats and mode 255
+An error occurred with ./Albums (MIDI)/tmpezbwuwmr/Finley MIDI/50-Mussorgsky - Pictures At An Exhibition - No-01 The Gnome (Sempre vivo).mid: Could not decode key with 2 flats and mode 255
