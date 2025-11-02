@@ -1,4 +1,4 @@
-# midi_filename_to_title
+# kuhmann_midi_rename
 Changes the track name meta event in the midi file to match the file name.
 
 This is intended to get the Disklavier MIDI files from the Kuhmann Directory to be formatted in such a way that they can be easily viewed (and played) on a Yamaha Disklavier Enspire system.
